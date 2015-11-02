@@ -9,6 +9,4 @@ The most useful library to conver your text to the voice.
 
 You can use it in your code as follows
 
-"""
     TextToVoice.speak("Hello, How are you?");
-"""
